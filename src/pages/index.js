@@ -25,8 +25,7 @@ const Home = (props) => {
             The Vac Guy
           </h1>
           <p>
-            Multiple content types using Markdown and JSON sources. Responsive design and SCSS. This
-            is a beautiful and artfully designed starting theme.
+            We specialize in Central Vacuums in Utah, and guarantee that we have the right products for you.
           </p>
         </div>
       </div>
@@ -40,6 +39,7 @@ const Home = (props) => {
           <div className="col-12">
             <h2 className="title-3 text-dark mb-3">Our Services</h2>
           </div>
+          {console.log(markdown)}
           {markdown.map(edge => (
             <div key={edge.node.frontmatter.path} className="col-12 col-md-4 mb-1">
               <div className="card service service-teaser">
@@ -63,8 +63,13 @@ const Home = (props) => {
       <div className="container pt-5 pb-5 pt-md-7 pb-md-7">
         <div className="row justify-content-center">
           <div className="col-12">
-            <h2 className="title-3 text-dark mb-4">Our Features</h2>
+            <h2 className="title-3 text-dark mb-4">New Products</h2>
           </div>
+          <div className="col-12 col-md-6 col-lg-4 mb-2">            
+            <iframe src="https://www.youtube.com/watch?v=2yWFjyjCcX8" width="100%" height="240" controls autoplay>
+            </iframe>
+          </div>
+
           {json.map(edge => (
             <div key={edge.node.id} className="col-12 col-md-6 col-lg-4 mb-2">
               <div className="feature">

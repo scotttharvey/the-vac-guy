@@ -1,54 +1,42 @@
 ---
-path: '/services/mergers'
-title: 'Mergers'
+path: '/services/programs'
+title: 'Service Program'
 date: 2018-11-28T15:15:34+10:00
 image: '/services/default.png'
 featured: true
 draft: false
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+Comprehensive 20 Point System Checkup for your Central Vacuum System, which is recommended every 2 to 4 years.
+We service all brands and models!
 
-## Ne verba patulosque numen vix libet
+## Power Unit
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+1. Tighten intake, exhaust and line clamps
+2. Inspect internal motor plate gasket for proper sealing
+3. Inspect motor, relay transformer for any problems
+4. Tighten dirt canister clamps if needed
+5. Empty & clean dirt canister
+6. Clean protective lint screen
+7. Clean exterior of Power Unit and nearby pipe
+8. Check operation of utility valve
+9. Explain routine maintenance to homeowner
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+## Tube System
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+10. Clear and anti-Static each inlet line.
 
-## Postquam tamen
+11. Check inlet valve switch for proper functionality (making sure system is       activated when the inlet door is open, and the hose fits securely)
+12. Check inlet valves for proper sealing
+13. Tighten all inlet valve screws and level if needed
+14. Run a pressure check on entire system and record sealed and working       vacuum
+15. Troubleshoot any leakage found
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
+## Accessories
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+16. Clean all standard tools
+17. Power Brush Maintenance; clean inside and out; inspect bearings and         belt. (one Power Brush included in maintenance package; $22.50 per         each additional Power Brush) 
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+18. Check hoses for obstructions
+19. Ensure hose rack is installed and secure
+20. Ensure hose sock is tied and securely in place
