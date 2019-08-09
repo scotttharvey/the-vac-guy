@@ -3,7 +3,7 @@ path: '/team/kevin'
 title: 'Kevin a.k.a Stretch'
 date: 2018-11-19T10:47:58+10:00
 draft: false
-image: '/team/peter-van-eijk-711986-unsplash.jpg'
+image: '/team/kevin-b.png'
 jobtitle: 'Manager'
 email: 'keven@thevacguy.com'
 linkedinurl: 'www.linkedin.com/kev'

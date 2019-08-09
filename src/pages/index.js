@@ -4,6 +4,7 @@ import Helmet from 'react-helmet';
 import SEO from '../components/SEO';
 import Layout from '../layouts/index';
 import Call from '../components/Call';
+import ChameleonLogo from '../images/chameleon-color.jpg';
 
 const Home = (props) => {
   const markdown = props.data.allMarkdownRemark.edges;
@@ -65,9 +66,14 @@ const Home = (props) => {
           <div className="col-12">
             <h2 className="title-3 text-dark mb-4">New Products</h2>
           </div>
-          <div className="col-12 col-md-6 col-lg-4 mb-2">            
-            <iframe src="https://www.youtube.com/watch?v=2yWFjyjCcX8" width="100%" height="240" controls autoplay>
-            </iframe>
+          <div className="col-12 col-md-6 col-lg-4 mb-2">
+            <div className="feature">                                  
+              <div className="feature-image">
+                <img src={ChameleonLogo} alt="Chameleon retractabable hose logo"/>
+              </div>
+              <h2 className="feature-title">Chameleon Retractable Hose</h2>
+              <div className="feature-content">Weeee</div>
+            </div>
           </div>
 
           {json.map(edge => (

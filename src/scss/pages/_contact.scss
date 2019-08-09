@@ -1,0 +1,19 @@
+.page-contact {
+  background-image: url('../images/car-guy.png');
+  background-repeat: no-repeat;
+  background-size: 50%;
+  background-position: 90% 60px;
+  @include media-breakpoint-up(sm) {
+    background-size: 40%;
+    background-position: 80% 60px;
+  }
+  @include media-breakpoint-up(md) {
+    background-size: 33%;
+    background-position: 80% 80px;
+  }
+  @include media-breakpoint-up(lg) {
+    background-size: 30%;
+    background-position: 80% 80px;
+  }
+}
+  
