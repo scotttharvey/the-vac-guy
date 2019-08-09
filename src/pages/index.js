@@ -72,7 +72,9 @@ const Home = (props) => {
                 <img src={ChameleonLogo} alt="Chameleon retractabable hose logo"/>
               </div>
               <h2 className="feature-title">Chameleon Retractable Hose</h2>
-              <div className="feature-content">Weeee</div>
+              <div className="feature-content">
+                <a href="https://www.youtube.com/watch?v=2yWFjyjCcX8" target="_blank">Learn More</a> 
+              </div>
             </div>
           </div>
 
