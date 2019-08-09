@@ -20,14 +20,14 @@ const Home = (props) => {
       </Helmet>
       <div className="intro pb-4">
         <div className="container">
-          <h1 style={{
-            color: '#94D60B',
-          }}>
-            The Vac Guy
-          </h1>
-          <p>
-            We specialize in Central Vacuums in Utah, and guarantee that we have the right products for you.
-          </p>
+          <div class="hero-heading">
+            <h1>
+              The Vac Guy
+            </h1>
+            <h5>
+              We specialize in Central Vacuums in Utah, and guarantee that we have the right products for you.
+            </h5>
+          </div>
         </div>
       </div>
 

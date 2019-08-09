@@ -12,11 +12,13 @@ const Team = (props) => {
         <div className="container">
           <div className="row">
             <div className="col-12">
-              <h1>Meet The Team</h1>
-              <p>
-                Our team of qualified accountants and financial consultants can help your business
-                at any stage of it’s growth.
-              </p>
+              <div class="hero-heading x-opaque">
+                <h1>Meet The Team</h1>
+                <p>
+                  Our team of qualified accountants and financial consultants can help your business
+                  at any stage of it’s growth.
+                </p>
+              </div>
             </div>
           </div>
         </div>
