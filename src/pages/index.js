@@ -77,7 +77,7 @@ const Home = (props) => {
             </div>
           </div>
 
-          {json.map(edge => (
+          {/* {json.map(edge => (
             <div key={edge.node.id} className="col-12 col-md-6 col-lg-4 mb-2">
               <div className="feature">
                 {edge.node.image && (
@@ -89,7 +89,7 @@ const Home = (props) => {
                 <div className="feature-content">{edge.node.description}</div>
               </div>
             </div>
-          ))}
+          ))} */}
         </div>
       </div>
     </Layout>
