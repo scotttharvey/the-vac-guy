@@ -21,7 +21,8 @@ const Contact = props => (
           <Call button={false} />
         </div>
         <div className="col-8">
-          <h4 className="mt-4">Business Hours</h4>
+          <h4 className="mt-4">Business Hours By Appointment Only </h4>
+          <h5 className="mt-1 mb-3">(After hours dropbox available) </h5>
           <table className="table table-sm opening-hours-table">
             <tbody>
               <tr>

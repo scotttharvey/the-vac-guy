@@ -34,6 +34,11 @@ const Services = (props) => {
           ))}
         </div>
       </div>
+
+      <div className="formContainer pb-6">
+        <iframe width="100%" height="100%" name="htmlComp-iframe" scrolling="auto" src="https://www-thevacguy-com.filesusr.com/html/443d25_2477b3cac2b0e0a1b6b2ac6f5281b3c1.html"></iframe>
+      </div>
+
     </Layout>
   );
 };

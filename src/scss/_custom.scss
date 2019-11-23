@@ -11,3 +11,25 @@
 
   p { width: 100%;}
 }
+
+.formContainer {
+  text-align: center;
+
+  iframe {
+    min-height: 650px;
+    
+    iframe {
+      .ss-form {
+        #ss-form {
+          background: red !important;
+        }
+      }
+      #ss-form {
+        .ss-question-list {
+          display: flex;
+          flex-wrap: wrap;
+        }
+      }
+    }
+  }
+}

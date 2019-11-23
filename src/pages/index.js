@@ -20,7 +20,7 @@ const Home = (props) => {
       </Helmet>
       <div className="intro pb-4">
         <div className="container">
-          <div class="hero-heading">
+          <div className="hero-heading">
             <h1>
               The Vac Guy
             </h1>
@@ -40,7 +40,6 @@ const Home = (props) => {
           <div className="col-12">
             <h2 className="title-3 text-dark mb-3">Our Services</h2>
           </div>
-          {console.log(markdown)}
           {markdown.map(edge => (
             <div key={edge.node.frontmatter.path} className="col-12 col-md-4 mb-1">
               <div className="card service service-teaser">
