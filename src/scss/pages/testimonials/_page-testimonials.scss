@@ -1,18 +1,20 @@
 .page-testimonials {  
   background-image: url('../images/first-place.png');
   background-repeat: no-repeat;
-  background-size: 50%;
-  background-position: 90% 60px;
+  background-size: 40%;
+  background-position: 55% 80px;
+  .intro { padding-bottom: 0; }
+
   @include media-breakpoint-up(sm) {
     background-size: 40%;
-    background-position: 80% 60px;
+    background-position: 80% 80px;    
   }
   @include media-breakpoint-up(md) {
     background-size: 33%;
-    background-position: 80% 80px;
+    background-position: 80% 70px;
   }
   @include media-breakpoint-up(lg) {
-    background-size: 30%;
-    background-position: 80% 80px;
+    background-size: 24%;
+    background-position: 80% 65px;
   }
 }
